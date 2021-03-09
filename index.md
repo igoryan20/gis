@@ -8,7 +8,7 @@
   <body>
     <h1>Добро пожаловать на мой сайт</h1>
     <p>Я не люблю показовать свое лицо</p>
-    <img src="./foto/image_main.jpg" alt="Мое фото" width="600px" height="400px">
+    <img src="./image_main.jpg" alt="Мое фото" width="600px" height="400px">
     <style>
       img {
         border: 5px solid sandybrown;
