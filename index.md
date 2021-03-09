@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <meta charset="utf-8">
-    <title> Лабораторная работа №1 </title>
-    <link rel="stylesheet" href="style.css">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=ваш API-ключ&lang=ru_RU" type="text/javascript">
+    </script>
   </head>
   <body>
     <h1>Добро пожаловать на мой сайт</h1>
