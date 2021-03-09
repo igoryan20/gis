@@ -18,6 +18,7 @@
     <p>Скрытный персонаж</p>
     <h2>Местоположение</h2>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d17970.480575946705!2d37.52608285!3d55.7357413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1615308471581!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <div id="map" style="width: 600px; height: 400px"></div>
     <h3>Ссылки на другие страницы</h3>
     <ul>
       <li><a href="about.html">Обо мне подробнее</a></li>
